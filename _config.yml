@@ -1,0 +1,23 @@
+name: Streamline
+favicon: null
+layout_spectrum: 0.9411766377743334
+typography_spectrum: 0.5315606868825853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5216203681193292
+  lightness: 0.8233820726163685
+  saturation: 0.7305447137914598
+  rhythmicContrast: 0.2821499581914395
+purpose: []
